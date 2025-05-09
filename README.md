@@ -1,4 +1,5 @@
 # flashbid
 <br>
-new repo for my website flashbid
+new repo for my website flashbid-flasher
+git
 
